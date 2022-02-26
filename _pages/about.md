@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Samed SAKA's home on the web!
+This is Samed SAKA's personal web page!
 
