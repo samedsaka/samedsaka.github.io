@@ -15,7 +15,7 @@ Education
 * M.S. in Bioinformatics, Erciyes University, Turkiye, 2019
 * Ph.D Student in EEE&CS, University of Liverpool
 
-Work experience
+# Work experience
 ======
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -23,7 +23,7 @@ Work experience
   * Supervisor: Professor Git
  -->
 
-Publications
+# Publications
 ======
  <!--  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
