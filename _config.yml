@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samed SAKA / Phd Student"
+title                    : "Lect. Samed SAKA, PhD"
 title_separator          : "-"
 name                     : &name "Samed SAKA"
-description              : &description "Phd Student at University of Liverpool"
+description              : &description ""
 url                      : https://samedsaka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samedsaka/samedsaka.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samed SAKA"
+  name             : "Samed SAKA, PhD"
   avatar           : "pp.jpg"
-  bio              : "Phd Student at University of Liverpool"
-  location         : "Liverpool"
+  bio              : "Lecturer at Erciyes University"
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tr/citations?user=avLR65QAAAAJ"
-  email            : "samed.saka@liverpool.ac.uk"
+  email            : "samed@erciyes.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
