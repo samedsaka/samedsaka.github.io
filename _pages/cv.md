@@ -13,6 +13,6 @@ Education
 ======
 * B.S. in Computer Engineering , Erciyes University, Turkiye, 2016
 * M.S. in Bioinformatics, Erciyes University, Turkiye, 2019
-* Ph.D Student in EEE&CS, University of Liverpool, United Kingdom
+* Ph.D in Cybersecurity, University of Liverpool, United Kingdom, 2026
 
   
